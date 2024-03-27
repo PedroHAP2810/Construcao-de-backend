@@ -1,5 +1,5 @@
 // importando modulo do express
-const express = require('express')
+const express = require('express');
 
 // cria uma aplicação express
 const app = express()
